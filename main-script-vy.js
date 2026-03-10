@@ -1,4 +1,4 @@
-﻿class TerminalResume {
+class TerminalResume {
   constructor() {
     this.output = document.getElementById("output");
     this.input = document.getElementById("command-input");
@@ -539,7 +539,7 @@
         "#888888"
       ) +
       this.wrapWithColor(
-        "         Software Engineer â€¢ Cloud Architect â€¢ Tech Lead\n",
+        "         Software Engineer â€¢ Bug Bounty Hunter\n",
         "#666666"
       ) +
       this.wrapWithColor(divider + "\n\n", "#555555") +
@@ -1895,7 +1895,7 @@ ${this.wrapWithColor("â•°â”€â”€â”€â”€â”€â”€â�
 
     // Add role
     const role = document.createElement("div");
-    role.textContent = "Software Engineer â€¢ Cloud Architect â€¢ Tech Lead";
+    role.textContent = "Software Engineer â€¢ Bug Bounty Hunter";
     role.style.color = "#666666";
     role.style.fontSize = "10px";
     role.style.fontFamily = "'Fira Code', monospace";
