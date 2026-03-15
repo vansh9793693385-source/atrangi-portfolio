@@ -20,7 +20,7 @@ To run this project locally:
 
 1. Clone the repository.
    ```bash
-   git clone <repository-url>
+   git clone <(https://github.com/vansh9793693385-source/atrangi-portfolio.git)>
    ```
 2. Navigate to the project directory.
    ```bash
